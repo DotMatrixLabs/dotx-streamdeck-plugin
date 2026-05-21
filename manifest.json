@@ -1,0 +1,13 @@
+{
+  "id": "dotx-streamdeck-companion",
+  "name": "Stream Deck Companion",
+  "version": "0.1.0",
+  "description": "Connects Dot X to your Elgato Stream Deck. See live channel mappings, device status, and setup instructions.",
+  "author": "DotMatrixLabs",
+  "dotxVersion": ">=1.0.0",
+  "permissions": ["net"],
+  "main": "dist/main.js",
+  "packaging": {
+    "include": ["dist/main.js", "manifest.json"]
+  }
+}
