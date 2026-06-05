@@ -9,9 +9,10 @@
     "package": "npm run build && dotx-plugin package"
   },
   "dependencies": {
-    "@dotmatrixlabs/dotx-plugin-sdk": "^1.0.3"
+    "@dotmatrixlabs/dotx-plugin-sdk": "1.1.5"
   },
   "devDependencies": {
+    "@types/node": "^25.9.1",
     "esbuild": "^0.25.6",
     "typescript": "^5.7.0"
   },
