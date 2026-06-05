@@ -1,7 +1,7 @@
 {
   "id": "dotx-streamdeck-companion",
   "name": "Stream Deck Companion",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Connects Dot X to your Elgato Stream Deck with a marketplace link and setup instructions for the Stream Deck plugin.",
   "author": "DotMatrixLabs",
   "dotxVersion": ">=1.0.0",
