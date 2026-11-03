@@ -1,6 +1,6 @@
 {
   "name": "dotx-streamdeck-companion",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Dot X marketplace plugin for the Elgato Stream Deck integration",
   "type": "commonjs",
   "scripts": {
@@ -9,7 +9,7 @@
     "package": "npm run build && dotx-plugin package"
   },
   "dependencies": {
-    "@dotmatrixlabs/dotx-plugin-sdk": "1.1.5"
+    "@dotmatrixlabs/dotx-plugin-sdk": "1.1.7"
   },
   "devDependencies": {
     "@types/node": "^25.9.1",
